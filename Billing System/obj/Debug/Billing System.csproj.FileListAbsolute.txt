@@ -1,0 +1,27 @@
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Billing System.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Billing System.exe
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Billing System.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing System.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing_System.loginform.resources
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing_System.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing System.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing System.exe
+c:\users\dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing System.pdb
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing_System.SendCode.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing_System.Reset_Password.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing_System.Dashboard.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\MySql.Data.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Google.Protobuf.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Zstandard.Net.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\Renci.SshNet.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\System.Buffers.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\MySql.Data.xml
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\obj\Debug\Billing System.csproj.Billing System.exe.config
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\itextsharp.dll
+C:\Users\Dell\documents\visual studio 2015\Projects\Billing System\Billing System\bin\Debug\itextsharp.xml
